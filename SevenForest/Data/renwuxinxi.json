@@ -1,0 +1,570 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "renwuxinxi",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'RichTextStyleRow'",
+        "ObjectPath": "/Script/UMG"
+      }
+    },
+    "Rows": {
+      "Default": {
+        "TextStyle": {
+          "Font": {
+            "FontObject": {
+              "ObjectName": "Font'HTC_Font'",
+              "ObjectPath": "Hotta/Content/Resources/UI/Fonts/HTC_Font.0"
+            },
+            "FontMaterial": null,
+            "OutlineSettings": {
+              "OutlineSize": 0,
+              "bSeparateFillAlpha": false,
+              "bApplyOutlineToDropShadows": false,
+              "OutlineMaterial": null,
+              "OutlineColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.35,
+                "Hex": "59000000"
+              }
+            },
+            "TypefaceFontName": "65",
+            "Size": 18,
+            "LetterSpacing": 0
+          },
+          "ColorAndOpacity": {
+            "SpecifiedColor": {
+              "R": 0.027321,
+              "G": 0.043735,
+              "B": 0.078187,
+              "A": 1.0,
+              "Hex": "FF2E3B4F"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "ShadowOffset": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "ShadowColorAndOpacity": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "SelectedBackgroundColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 0.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+          },
+          "HighlightColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HighlightShape": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          },
+          "StrikeBrush": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          },
+          "UnderlineBrush": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          }
+        }
+      },
+      "blue": {
+        "TextStyle": {
+          "Font": {
+            "FontObject": {
+              "ObjectName": "Font'HTC_Font'",
+              "ObjectPath": "Hotta/Content/Resources/UI/Fonts/HTC_Font.0"
+            },
+            "FontMaterial": null,
+            "OutlineSettings": {
+              "OutlineSize": 0,
+              "bSeparateFillAlpha": false,
+              "bApplyOutlineToDropShadows": false,
+              "OutlineMaterial": null,
+              "OutlineColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.3,
+                "Hex": "4C000000"
+              }
+            },
+            "TypefaceFontName": "Default",
+            "Size": 18,
+            "LetterSpacing": 0
+          },
+          "ColorAndOpacity": {
+            "SpecifiedColor": {
+              "R": 0.045186,
+              "G": 0.226966,
+              "B": 0.456411,
+              "A": 1.0,
+              "Hex": "FF3C83B4"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "ShadowOffset": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "ShadowColorAndOpacity": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "SelectedBackgroundColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 0.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+          },
+          "HighlightColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HighlightShape": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          },
+          "StrikeBrush": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          },
+          "UnderlineBrush": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          }
+        }
+      },
+      "red": {
+        "TextStyle": {
+          "Font": {
+            "FontObject": {
+              "ObjectName": "Font'HTC_Font'",
+              "ObjectPath": "Hotta/Content/Resources/UI/Fonts/HTC_Font.0"
+            },
+            "FontMaterial": null,
+            "OutlineSettings": {
+              "OutlineSize": 0,
+              "bSeparateFillAlpha": false,
+              "bApplyOutlineToDropShadows": false,
+              "OutlineMaterial": null,
+              "OutlineColor": {
+                "R": 0.0,
+                "G": 0.0,
+                "B": 0.0,
+                "A": 0.3,
+                "Hex": "4C000000"
+              }
+            },
+            "TypefaceFontName": "Default",
+            "Size": 18,
+            "LetterSpacing": 0
+          },
+          "ColorAndOpacity": {
+            "SpecifiedColor": {
+              "R": 0.590619,
+              "G": 0.072272,
+              "B": 0.048172,
+              "A": 1.0,
+              "Hex": "FFCA4C3E"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "ShadowOffset": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "ShadowColorAndOpacity": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "SelectedBackgroundColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 0.0,
+              "B": 1.0,
+              "A": 0.0,
+              "Hex": "FF00FF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+          },
+          "HighlightColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HighlightShape": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          },
+          "StrikeBrush": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          },
+          "UnderlineBrush": {
+            "ImageSize": {
+              "X": 32.0,
+              "Y": 32.0
+            },
+            "Margin": {
+              "Left": 0.0,
+              "Top": 0.0,
+              "Right": 0.0,
+              "Bottom": 0.0
+            },
+            "TintColor": {
+              "SpecifiedColor": {
+                "R": 1.0,
+                "G": 1.0,
+                "B": 1.0,
+                "A": 1.0,
+                "Hex": "FFFFFFFF"
+              },
+              "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+            },
+            "ResourceObject": null,
+            "ResourceName": "None",
+            "UVRegion": {
+              "Min": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "Max": {
+                "X": 0.0,
+                "Y": 0.0
+              },
+              "bIsValid": 0
+            },
+            "DrawAs": "ESlateBrushDrawType::Image",
+            "Tiling": "ESlateBrushTileType::NoTile",
+            "Mirroring": "ESlateBrushMirrorType::NoMirror",
+            "ImageType": "ESlateBrushImageType::NoImage",
+            "bIsDynamicallyLoaded": false
+          }
+        }
+      }
+    }
+  }
+]
