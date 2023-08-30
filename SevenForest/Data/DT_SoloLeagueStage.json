@@ -1,0 +1,251 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SoloLeagueStage",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'SoloLeagueStageData'",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Stage": 7,
+        "EachStageGrade": 3,
+        "EachGradeStars": 3,
+        "WithoutNegativeBattleScore": 3,
+        "WinAddBaseScore": 10,
+        "FailAddBaseScore": 5,
+        "StarProtectScore": 60,
+        "ProtectScoreLimit": 180,
+        "SeriesWinExtraScore": 5,
+        "SeriesWinExtraScoreLimit": 25,
+        "InitialMatchScore": [
+          {
+            "1": 960
+          },
+          {
+            "2": 930
+          },
+          {
+            "3": 900
+          }
+        ],
+        "StageTitle": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "SoloLeagueStage_7"
+        },
+        "StageMaterial": {
+          "AssetPathName": "/Game/Resources/UI/SoloLeague/badge_Mat.badge_Mat",
+          "SubPathString": ""
+        },
+        "SeasonResetDropID": "drop_solo_stage1"
+      },
+      "2": {
+        "Stage": 6,
+        "EachStageGrade": 3,
+        "EachGradeStars": 3,
+        "WithoutNegativeBattleScore": 3,
+        "WinAddBaseScore": 10,
+        "FailAddBaseScore": 5,
+        "StarProtectScore": 60,
+        "ProtectScoreLimit": 180,
+        "SeriesWinExtraScore": 5,
+        "SeriesWinExtraScoreLimit": 25,
+        "InitialMatchScore": [
+          {
+            "1": 1050
+          },
+          {
+            "2": 1020
+          },
+          {
+            "3": 990
+          }
+        ],
+        "StageTitle": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "SoloLeagueStage_6"
+        },
+        "StageMaterial": {
+          "AssetPathName": "/Game/Resources/UI/SoloLeague/badge_Mat_Inst.badge_Mat_Inst",
+          "SubPathString": ""
+        },
+        "SeasonResetDropID": "drop_solo_stage2"
+      },
+      "3": {
+        "Stage": 5,
+        "EachStageGrade": 4,
+        "EachGradeStars": 4,
+        "WithoutNegativeBattleScore": 3,
+        "WinAddBaseScore": 20,
+        "FailAddBaseScore": 10,
+        "StarProtectScore": 80,
+        "ProtectScoreLimit": 240,
+        "SeriesWinExtraScore": 5,
+        "SeriesWinExtraScoreLimit": 25,
+        "InitialMatchScore": [
+          {
+            "1": 1200
+          },
+          {
+            "2": 1160
+          },
+          {
+            "3": 1120
+          },
+          {
+            "4": 1080
+          }
+        ],
+        "StageTitle": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "SoloLeagueStage_5"
+        },
+        "StageMaterial": {
+          "AssetPathName": "/Game/Resources/UI/SoloLeague/badge_Mat_Inst1.badge_Mat_Inst1",
+          "SubPathString": ""
+        },
+        "SeasonResetDropID": "drop_solo_stage3"
+      },
+      "4": {
+        "Stage": 4,
+        "EachStageGrade": 4,
+        "EachGradeStars": 4,
+        "WithoutNegativeBattleScore": 3,
+        "WinAddBaseScore": 30,
+        "FailAddBaseScore": 15,
+        "StarProtectScore": 150,
+        "ProtectScoreLimit": 600,
+        "SeriesWinExtraScore": 5,
+        "SeriesWinExtraScoreLimit": 25,
+        "InitialMatchScore": [
+          {
+            "1": 1360
+          },
+          {
+            "2": 1320
+          },
+          {
+            "3": 1280
+          },
+          {
+            "4": 1240
+          }
+        ],
+        "StageTitle": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "SoloLeagueStage_4"
+        },
+        "StageMaterial": {
+          "AssetPathName": "/Game/Resources/UI/SoloLeague/badge_Mat_Inst2.badge_Mat_Inst2",
+          "SubPathString": ""
+        },
+        "SeasonResetDropID": "drop_solo_stage4"
+      },
+      "5": {
+        "Stage": 3,
+        "EachStageGrade": 5,
+        "EachGradeStars": 5,
+        "WithoutNegativeBattleScore": 3,
+        "WinAddBaseScore": 40,
+        "FailAddBaseScore": 20,
+        "StarProtectScore": 300,
+        "ProtectScoreLimit": 1500,
+        "SeriesWinExtraScore": 5,
+        "SeriesWinExtraScoreLimit": 25,
+        "InitialMatchScore": [
+          {
+            "1": 1610
+          },
+          {
+            "2": 1560
+          },
+          {
+            "3": 1510
+          },
+          {
+            "4": 1460
+          },
+          {
+            "5": 1410
+          }
+        ],
+        "StageTitle": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "SoloLeagueStage_3"
+        },
+        "StageMaterial": {
+          "AssetPathName": "/Game/Resources/UI/SoloLeague/badge_Mat_Inst3.badge_Mat_Inst3",
+          "SubPathString": ""
+        },
+        "SeasonResetDropID": "drop_solo_stage5"
+      },
+      "6": {
+        "Stage": 2,
+        "EachStageGrade": 5,
+        "EachGradeStars": 5,
+        "WithoutNegativeBattleScore": 3,
+        "WinAddBaseScore": 40,
+        "FailAddBaseScore": 20,
+        "StarProtectScore": 300,
+        "ProtectScoreLimit": 1500,
+        "SeriesWinExtraScore": 5,
+        "SeriesWinExtraScoreLimit": 25,
+        "InitialMatchScore": [
+          {
+            "1": 1860
+          },
+          {
+            "2": 1810
+          },
+          {
+            "3": 1760
+          },
+          {
+            "4": 1710
+          },
+          {
+            "5": 1660
+          }
+        ],
+        "StageTitle": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "SoloLeagueStage_2"
+        },
+        "StageMaterial": {
+          "AssetPathName": "/Game/Resources/UI/SoloLeague/badge_Mat_Inst4.badge_Mat_Inst4",
+          "SubPathString": ""
+        },
+        "SeasonResetDropID": "drop_solo_stage6"
+      },
+      "7": {
+        "Stage": 1,
+        "EachStageGrade": 1,
+        "EachGradeStars": 100000000,
+        "WithoutNegativeBattleScore": 3,
+        "WinAddBaseScore": 50,
+        "FailAddBaseScore": 25,
+        "StarProtectScore": 350,
+        "ProtectScoreLimit": 1750,
+        "SeriesWinExtraScore": 5,
+        "SeriesWinExtraScoreLimit": 25,
+        "InitialMatchScore": [
+          {
+            "1": 1910
+          }
+        ],
+        "StageTitle": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "SoloLeagueStage_1"
+        },
+        "StageMaterial": {
+          "AssetPathName": "/Game/Resources/UI/SoloLeague/badge_Mat_Inst5.badge_Mat_Inst5",
+          "SubPathString": ""
+        },
+        "SeasonResetDropID": "drop_solo_stage7"
+      }
+    }
+  }
+]

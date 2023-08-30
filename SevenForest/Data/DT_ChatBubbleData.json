@@ -1,0 +1,2708 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ChatBubbleData",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ChatBubbleData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Default": {
+        "BubbleItemId": "Default",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_moren1.qipao_moren1",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_moren1.qipao_moren1",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_moren2.qipao_moren2",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao4": {
+        "BubbleItemId": "chat_qipao4",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_004.qipao_004",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_004.qipao_004",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_004.qipao_004",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao5": {
+        "BubbleItemId": "chat_qipao5",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_005.qipao_005",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_005.qipao_005",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_005.qipao_005",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao14": {
+        "BubbleItemId": "chat_qipao14",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_014.qipao_014",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_014.qipao_014",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_014.qipao_014",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao16": {
+        "BubbleItemId": "chat_qipao16",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_016.qipao_016",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_016.qipao_016",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_016.qipao_016",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao17": {
+        "BubbleItemId": "chat_qipao17",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_018.qipao_018",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_018.qipao_018",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_018.qipao_018",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao18": {
+        "BubbleItemId": "chat_qipao18",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_019.qipao_019",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_019.qipao_019",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_019.qipao_019",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao13": {
+        "BubbleItemId": "chat_qipao13",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_013.qipao_013",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_013.qipao_013",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_013.qipao_013",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 31.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao21": {
+        "BubbleItemId": "chat_qipao21",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_021.qipao_021",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_021.qipao_021",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_021.qipao_021",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao22": {
+        "BubbleItemId": "chat_qipao22",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_22.qipao_22",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_22.qipao_22",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_22.qipao_22",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao23": {
+        "BubbleItemId": "chat_qipao23",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_23.qipao_23",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_23.qipao_23",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_23.qipao_23",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao24": {
+        "BubbleItemId": "chat_qipao24",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_24.qipao_24",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_24.qipao_24",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_24.qipao_24",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_KR": true
+          },
+          {
+            "EHottaOverSeaRegionType::OVERSEA_TW": true
+          }
+        ]
+      },
+      "chat_qipao25": {
+        "BubbleItemId": "chat_qipao25",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_25.qipao_25",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_25.qipao_25",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_25.qipao_25",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao26": {
+        "BubbleItemId": "chat_qipao26",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_026.qipao_026",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_026.qipao_026",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_026.qipao_026",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao27": {
+        "BubbleItemId": "chat_qipao27",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_027.qipao_027",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_027.qipao_027",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_027.qipao_027",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao28": {
+        "BubbleItemId": "chat_qipao28",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_028.qipao_028",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_028.qipao_028",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_028.qipao_028",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao29": {
+        "BubbleItemId": "chat_qipao29",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_029.qipao_029",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_029.qipao_029",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_029.qipao_029",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao30": {
+        "BubbleItemId": "chat_qipao30",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_030.qipao_030",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_030.qipao_030",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_030.qipao_030",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao12": {
+        "BubbleItemId": "chat_qipao12",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_012.qipao_012",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_012.qipao_012",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_012.qipao_012",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao31": {
+        "BubbleItemId": "chat_qipao31",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_31.qipao_31",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_31.qipao_31",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_31.qipao_31",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao32": {
+        "BubbleItemId": "chat_qipao32",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_32.qipao_32",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_32.qipao_32",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_32.qipao_32",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao33": {
+        "BubbleItemId": "chat_qipao33",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_33.qipao_33",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_33.qipao_33",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_33.qipao_33",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao34": {
+        "BubbleItemId": "chat_qipao34",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_34.qipao_34",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_34.qipao_34",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_34.qipao_34",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao35": {
+        "BubbleItemId": "chat_qipao35",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_35.qipao_35",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_35.qipao_35",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_35.qipao_35",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao36": {
+        "BubbleItemId": "chat_qipao36",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_36.qipao_36",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_36.qipao_36",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_36.qipao_36",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao37": {
+        "BubbleItemId": "chat_qipao37",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_37.qipao_37",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_37.qipao_37",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_37.qipao_37",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao38": {
+        "BubbleItemId": "chat_qipao38",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_38.qipao_38",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_38.qipao_38",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_38.qipao_38",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao39": {
+        "BubbleItemId": "chat_qipao39",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_39.qipao_39",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_39.qipao_39",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_39.qipao_39",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao40": {
+        "BubbleItemId": "chat_qipao40",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_40.qipao_40",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_40.qipao_40",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_40.qipao_40",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao41": {
+        "BubbleItemId": "chat_qipao41",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_41.qipao_41",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_41.qipao_41",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_41.qipao_41",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao42": {
+        "BubbleItemId": "chat_qipao42",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_42.qipao_42",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_42.qipao_42",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_42.qipao_42",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao45": {
+        "BubbleItemId": "chat_qipao45",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_45.qipao_45",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_45.qipao_45",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_45.qipao_45",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao43": {
+        "BubbleItemId": "chat_qipao43",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_43.qipao_43",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_43.qipao_43",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_43.qipao_43",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao46": {
+        "BubbleItemId": "chat_qipao46",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_46.qipao_46",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_46.qipao_46",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_46.qipao_46",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao47": {
+        "BubbleItemId": "chat_qipao47",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_47.qipao_47",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_47.qipao_47",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_47.qipao_47",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao48": {
+        "BubbleItemId": "chat_qipao48",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_48.qipao_48",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_48.qipao_48",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_48.qipao_48",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao44": {
+        "BubbleItemId": "chat_qipao44",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_44.qipao_44",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_44.qipao_44",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_44.qipao_44",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao49": {
+        "BubbleItemId": "chat_qipao49",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_49.qipao_49",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_49.qipao_49",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_49.qipao_49",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao50": {
+        "BubbleItemId": "chat_qipao50",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_50.qipao_50",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_50.qipao_50",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_50.qipao_50",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao51": {
+        "BubbleItemId": "chat_qipao51",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_51.qipao_51",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_51.qipao_51",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_51.qipao_51",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao52": {
+        "BubbleItemId": "chat_qipao52",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_52.qipao_52",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_52.qipao_52",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_52.qipao_52",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao53": {
+        "BubbleItemId": "chat_qipao53",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_53.qipao_53",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_53.qipao_53",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_53.qipao_53",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao54": {
+        "BubbleItemId": "chat_qipao54",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_54.qipao_54",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_54.qipao_54",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_54.qipao_54",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao55": {
+        "BubbleItemId": "chat_qipao55",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_55.qipao_55",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_55.qipao_55",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_55.qipao_55",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao56": {
+        "BubbleItemId": "chat_qipao56",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_56.qipao_56",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_56.qipao_56",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_56.qipao_56",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao57": {
+        "BubbleItemId": "chat_qipao57",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_57.qipao_57",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_57.qipao_57",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_57.qipao_57",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao58": {
+        "BubbleItemId": "chat_qipao58",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_58.qipao_58",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_58.qipao_58",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_58.qipao_58",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao59": {
+        "BubbleItemId": "chat_qipao59",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_59.qipao_59",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_59.qipao_59",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_59.qipao_59",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao60": {
+        "BubbleItemId": "chat_qipao60",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_60.qipao_60",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_60.qipao_60",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_60.qipao_60",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_61": {
+        "BubbleItemId": "chat_qipao_61",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_61.qipao_61",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_61.qipao_61",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_61.qipao_61",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_62": {
+        "BubbleItemId": "chat_qipao_62",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_62.qipao_62",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_62.qipao_62",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_62.qipao_62",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_65": {
+        "BubbleItemId": "chat_qipao_65",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_65.qipao_65",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_65.qipao_65",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_65.qipao_65",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_66": {
+        "BubbleItemId": "chat_qipao_66",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_66.qipao_66",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_66.qipao_66",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_66.qipao_66",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_67": {
+        "BubbleItemId": "chat_qipao_67",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_67.qipao_67",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_67.qipao_67",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_67.qipao_67",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_63": {
+        "BubbleItemId": "chat_qipao_63",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_63.qipao_63",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_63.qipao_63",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_63.qipao_63",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_64": {
+        "BubbleItemId": "chat_qipao_64",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_64.qipao_64",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_64.qipao_64",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_64.qipao_64",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_68": {
+        "BubbleItemId": "chat_qipao_68",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_68.qipao_68",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_68.qipao_68",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_68.qipao_68",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_69": {
+        "BubbleItemId": "chat_qipao_69",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_69.qipao_69",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_69.qipao_69",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_69.qipao_69",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_70": {
+        "BubbleItemId": "chat_qipao_70",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_70.qipao_70",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_70.qipao_70",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_70.qipao_70",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_71": {
+        "BubbleItemId": "chat_qipao_71",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_71.qipao_71",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_71.qipao_71",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_71.qipao_71",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_72": {
+        "BubbleItemId": "chat_qipao_72",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_72.qipao_72",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_72.qipao_72",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_72.qipao_72",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_73": {
+        "BubbleItemId": "chat_qipao_73",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_73.qipao_73",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_73.qipao_73",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_73.qipao_73",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_74": {
+        "BubbleItemId": "chat_qipao_74",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_74.qipao_74",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_74.qipao_74",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_74.qipao_74",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_75": {
+        "BubbleItemId": "chat_qipao_75",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_75.qipao_75",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_75.qipao_75",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_75.qipao_75",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_76": {
+        "BubbleItemId": "chat_qipao_76",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_76.qipao_76",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_76.qipao_76",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_76.qipao_76",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_77": {
+        "BubbleItemId": "chat_qipao_77",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_77.qipao_77",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_77.qipao_77",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_77.qipao_77",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_78": {
+        "BubbleItemId": "chat_qipao_78",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_78.qipao_78",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_78.qipao_78",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_78.qipao_78",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_79": {
+        "BubbleItemId": "chat_qipao_79",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_79.qipao_79",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_79.qipao_79",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_79.qipao_79",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_80": {
+        "BubbleItemId": "chat_qipao_80",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_80.qipao_80",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_80.qipao_80",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_80.qipao_80",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 25.0,
+          "Top": 24.0,
+          "Right": 25.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_81": {
+        "BubbleItemId": "chat_qipao_81",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_81.qipao_81",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_81.qipao_81",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_81.qipao_81",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_82": {
+        "BubbleItemId": "chat_qipao_82",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_82.qipao_82",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_82.qipao_82",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_82.qipao_82",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_83": {
+        "BubbleItemId": "chat_qipao_83",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_83.qipao_83",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_83.qipao_83",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_83.qipao_83",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 25.0,
+          "Top": 24.0,
+          "Right": 25.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_84": {
+        "BubbleItemId": "chat_qipao_84",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_84.qipao_84",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_84.qipao_84",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_84.qipao_84",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_85": {
+        "BubbleItemId": "chat_qipao_85",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_85.qipao_85",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_85.qipao_85",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_85.qipao_85",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_86": {
+        "BubbleItemId": "chat_qipao_86",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_86.qipao_86",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_86.qipao_86",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_86.qipao_86",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 24.0,
+          "Top": 24.0,
+          "Right": 24.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_87": {
+        "BubbleItemId": "chat_qipao_87",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_87.qipao_87",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_87.qipao_87",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_87.qipao_87",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 30.0,
+          "Top": 24.0,
+          "Right": 30.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_88": {
+        "BubbleItemId": "chat_qipao_88",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_88.qipao_88",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_88.qipao_88",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_88.qipao_88",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 28.0,
+          "Top": 24.0,
+          "Right": 28.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_89": {
+        "BubbleItemId": "chat_qipao_89",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_89.qipao_89",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_89.qipao_89",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_89.qipao_89",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 28.0,
+          "Top": 24.0,
+          "Right": 28.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_90": {
+        "BubbleItemId": "chat_qipao_90",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_90.qipao_90",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_90.qipao_90",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_90.qipao_90",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 28.0,
+          "Top": 24.0,
+          "Right": 28.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_91": {
+        "BubbleItemId": "chat_qipao_91",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_91.qipao_91",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_91.qipao_91",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_91.qipao_91",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 28.0,
+          "Top": 24.0,
+          "Right": 28.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_92": {
+        "BubbleItemId": "chat_qipao_92",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_92.qipao_92",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_92.qipao_92",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_92.qipao_92",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_93": {
+        "BubbleItemId": "chat_qipao_93",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_93.qipao_93",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_93.qipao_93",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_93.qipao_93",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_94": {
+        "BubbleItemId": "chat_qipao_94",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_94.qipao_94",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_94.qipao_94",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_94.qipao_94",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_95": {
+        "BubbleItemId": "chat_qipao_95",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_95.qipao_95",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_95.qipao_95",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_95.qipao_95",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_tencentfestival_1": {
+        "BubbleItemId": "chat_qipao_tencentfestival_1",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencentfestival_1.qipao_tencentfestival_1",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencentfestival_1.qipao_tencentfestival_1",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencentfestival_1.qipao_tencentfestival_1",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_tencentfestival_2": {
+        "BubbleItemId": "chat_qipao_tencentfestival_2",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencentfestival_2.qipao_tencentfestival_2",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencentfestival_2.qipao_tencentfestival_2",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencentfestival_2.qipao_tencentfestival_2",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_tencent_02": {
+        "BubbleItemId": "chat_qipao_tencent_02",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencent_2.qipao_tencent_2",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencent_2.qipao_tencent_2",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_tencent_2.qipao_tencent_2",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_TX": true
+          }
+        ]
+      },
+      "chat_qipao_kr_01": {
+        "BubbleItemId": "chat_qipao_kr_01",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/icon_qipao_kr_01.icon_qipao_kr_01",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_kr_01.qipao_kr_01",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_kr_01.qipao_kr_01",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_KR": true
+          }
+        ]
+      },
+      "chat_qipao_korea_1": {
+        "BubbleItemId": "chat_qipao_korea_1",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_korea_1.qipao_korea_1",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_korea_1.qipao_korea_1",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_korea_1.qipao_korea_1",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_KR": true
+          }
+        ]
+      },
+      "chat_qipao_koreafestival_1": {
+        "BubbleItemId": "chat_qipao_koreafestival_1",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_koreafestival_1.qipao_koreafestival_1",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_koreafestival_1.qipao_koreafestival_1",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_koreafestival_1.qipao_koreafestival_1",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_KR": true
+          }
+        ]
+      },
+      "chat_qipao_iw_2": {
+        "BubbleItemId": "chat_qipao_iw_2",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_2.qipao_iw_2",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_2.qipao_iw_2",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_2.qipao_iw_2",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_TW": true
+          }
+        ]
+      },
+      "chat_qipao_iw_3": {
+        "BubbleItemId": "chat_qipao_iw_3",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_3.qipao_iw_3",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_3.qipao_iw_3",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_3.qipao_iw_3",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_TW": true
+          }
+        ]
+      },
+      "chat_qipao_iw_4": {
+        "BubbleItemId": "chat_qipao_iw_4",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_4.qipao_iw_4",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_4.qipao_iw_4",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_4.qipao_iw_4",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_TW": true
+          }
+        ]
+      },
+      "chat_qipao_iw_5": {
+        "BubbleItemId": "chat_qipao_iw_5",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_5.qipao_iw_5",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_5.qipao_iw_5",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iw_5.qipao_iw_5",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_TW": true
+          }
+        ]
+      },
+      "chat_qipao_suoni": {
+        "BubbleItemId": "chat_qipao_suoni",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_suoni.qipao_suoni",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_suoni.qipao_suoni",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_suoni.qipao_suoni",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_PS": true
+          }
+        ]
+      },
+      "chat_qipao_iwplayoffline_01": {
+        "BubbleItemId": "chat_qipao_iwplayoffline_01",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iwplayoffline_01.qipao_iwplayoffline_01",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iwplayoffline_01.qipao_iwplayoffline_01",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_iwplayoffline_01.qipao_iwplayoffline_01",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": [
+          {
+            "EHottaOverSeaRegionType::OVERSEA_TW": true
+          }
+        ]
+      },
+      "chat_qipao_Overseas_Anniversary01": {
+        "BubbleItemId": "chat_qipao_Overseas_Anniversary01",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_Overseas_Anniversary01.qipao_Overseas_Anniversary01",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_Overseas_Anniversary01.qipao_Overseas_Anniversary01",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_Overseas_Anniversary01.qipao_Overseas_Anniversary01",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 20.0,
+          "Top": 24.0,
+          "Right": 20.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": true,
+        "OverSeaShowNeedUnlock": []
+      },
+      "chat_qipao_98": {
+        "BubbleItemId": "chat_qipao_98",
+        "BubbleIcon": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_98.qipao_98",
+          "SubPathString": ""
+        },
+        "SelfBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_98.qipao_98",
+          "SubPathString": ""
+        },
+        "OtherBubblePreview": {
+          "AssetPathName": "/Game/Resources/Icon/chat/qipao/qipao_98.qipao_98",
+          "SubPathString": ""
+        },
+        "MinSize": {
+          "X": 105.0,
+          "Y": 56.0
+        },
+        "Padding": {
+          "Left": 28.0,
+          "Top": 24.0,
+          "Right": 28.0,
+          "Bottom": 24.0
+        },
+        "bShowWhileLocked": false,
+        "OverSeaShowNeedUnlock": []
+      }
+    }
+  }
+]

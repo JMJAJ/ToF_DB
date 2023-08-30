@@ -1,0 +1,211 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BigEmoji",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ChatBigEmojiData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "big1": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_1.bigemoji_1",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big2": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_2.bigemoji_2",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big3": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_3.bigemoji_3",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big4": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_4.bigemoji_4",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big5": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_5.bigemoji_5",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big6": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_6.bigemoji_6",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big7": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_7.bigemoji_7",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big8": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_8.bigemoji_8",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big9": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_9.bigemoji_9",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big10": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_10.bigemoji_10",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big11": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_11.bigemoji_11",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big12": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_12.bigemoji_12",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big13": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_13.bigemoji_13",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big14": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_14.bigemoji_14",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big15": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_15.bigemoji_15",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big16": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_16.bigemoji_16",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "big17": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_17.bigemoji_17",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big18": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_18.bigemoji_18",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big19": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_19.bigemoji_19",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big20": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_20.bigemoji_20",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big21": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_22.bigemoji_22",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big22": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_23.bigemoji_23",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big23": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_24.bigemoji_24",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big24": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_25.bigemoji_25",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big25": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_26.bigemoji_26",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big26": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_27.bigemoji_27",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big27": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_28.bigemoji_28",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "big28": {
+        "EmojiBrush": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/dabiaoqing/bigemoji_29.bigemoji_29",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      }
+    }
+  }
+]

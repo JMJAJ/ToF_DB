@@ -1,0 +1,207 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ChatDubbing",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ChatDubbingConfig'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/touxiang_meilier_s.touxiang_meilier_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "梅丽尔语音",
+        "IsLock": true
+      },
+      "2": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/Avatar10_s.Avatar10_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "mi-a语音",
+        "IsLock": true
+      },
+      "3": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/touxiang_saimier_s.touxiang_saimier_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "赛弥尔语音",
+        "IsLock": true
+      },
+      "4": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/avatar_naimeixisi_s.avatar_naimeixisi_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "奈美西斯语音",
+        "IsLock": true
+      },
+      "5": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/avatar_01_s.avatar_01_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "默认「女声」",
+        "IsLock": false
+      },
+      "6": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/avatar_02_s.avatar_02_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "默认「男声」",
+        "IsLock": false
+      },
+      "7": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/touxiang_wuwan_s.touxiang_wuwan_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "乌丸语音",
+        "IsLock": true
+      },
+      "8": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/touxiang_leibei_s.touxiang_leibei_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "蕾贝语音",
+        "IsLock": true
+      },
+      "9": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/touxiang_bupoxiao_s.touxiang_bupoxiao_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "不破咲语音",
+        "IsLock": true
+      },
+      "10": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/touxiang_linye_s.touxiang_linye_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "凛夜语音",
+        "IsLock": true
+      },
+      "11": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/touxiang_susan_s.touxiang_susan_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "佩·佩语音",
+        "IsLock": true
+      },
+      "12": {
+        "ViewTexture": {
+          "AssetPathName": "/Game/Resources/Icon/Avatar/touxiang_kelaodiya_s.touxiang_kelaodiya_s",
+          "SubPathString": ""
+        },
+        "TinyViewTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03.voice_03",
+          "SubPathString": ""
+        },
+        "DubbingAni": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/voice_03_Mat.voice_03_Mat",
+          "SubPathString": ""
+        },
+        "ViewText": "克劳迪娅语音",
+        "IsLock": true
+      }
+    }
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ChatHugeEmoji",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ChatHugeEmojiData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "ImgBrush": {
+          "ImageSize": {
+            "X": 128.0,
+            "Y": 128.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "ResourceObject": {
+            "ObjectName": "MaterialInstanceConstant'chiji_emoji_1'",
+            "ObjectPath": "Hotta/Content/Resources/UI/liaotian/biaoqing/chijidabiaoqing/chiji_emoji_1.0"
+          },
+          "ResourceName": "None",
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "bIsDynamicallyLoaded": false
+        },
+        "IsLock": false
+      },
+      "2": {
+        "ImgBrush": {
+          "ImageSize": {
+            "X": 128.0,
+            "Y": 128.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "ResourceObject": {
+            "ObjectName": "MaterialInstanceConstant'chiji_emoji_2'",
+            "ObjectPath": "Hotta/Content/Resources/UI/liaotian/biaoqing/chijidabiaoqing/chiji_emoji_2.0"
+          },
+          "ResourceName": "None",
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "bIsDynamicallyLoaded": false
+        },
+        "IsLock": false
+      },
+      "3": {
+        "ImgBrush": {
+          "ImageSize": {
+            "X": 128.0,
+            "Y": 128.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "ResourceObject": {
+            "ObjectName": "MaterialInstanceConstant'chiji_emoji_3'",
+            "ObjectPath": "Hotta/Content/Resources/UI/liaotian/biaoqing/chijidabiaoqing/chiji_emoji_3.0"
+          },
+          "ResourceName": "None",
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "bIsDynamicallyLoaded": false
+        },
+        "IsLock": false
+      },
+      "4": {
+        "ImgBrush": {
+          "ImageSize": {
+            "X": 128.0,
+            "Y": 128.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "ResourceObject": {
+            "ObjectName": "MaterialInstanceConstant'chiji_emoji_4'",
+            "ObjectPath": "Hotta/Content/Resources/UI/liaotian/biaoqing/chijidabiaoqing/chiji_emoji_4.0"
+          },
+          "ResourceName": "None",
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "bIsDynamicallyLoaded": false
+        },
+        "IsLock": false
+      },
+      "5": {
+        "ImgBrush": {
+          "ImageSize": {
+            "X": 128.0,
+            "Y": 128.0
+          },
+          "Margin": {
+            "Left": 0.0,
+            "Top": 0.0,
+            "Right": 0.0,
+            "Bottom": 0.0
+          },
+          "TintColor": {
+            "SpecifiedColor": {
+              "R": 1.0,
+              "G": 1.0,
+              "B": 1.0,
+              "A": 1.0,
+              "Hex": "FFFFFFFF"
+            },
+            "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+          },
+          "ResourceObject": {
+            "ObjectName": "MaterialInstanceConstant'chiji_emoji_5'",
+            "ObjectPath": "Hotta/Content/Resources/UI/liaotian/biaoqing/chijidabiaoqing/chiji_emoji_5.0"
+          },
+          "ResourceName": "None",
+          "UVRegion": {
+            "Min": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Max": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "bIsValid": 0
+          },
+          "DrawAs": "ESlateBrushDrawType::Image",
+          "Tiling": "ESlateBrushTileType::NoTile",
+          "Mirroring": "ESlateBrushMirrorType::NoMirror",
+          "ImageType": "ESlateBrushImageType::NoImage",
+          "bIsDynamicallyLoaded": false
+        },
+        "IsLock": false
+      }
+    }
+  }
+]

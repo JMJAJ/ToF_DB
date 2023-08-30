@@ -1,0 +1,57 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BreakFatePlayerStaticData",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'BreakFatePlayerStaticData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Map_chiji_D": {
+        "BalancePlayerLevel": 40,
+        "BaseSatiety": 0,
+        "MaxHealth": 860.0,
+        "MaxEnergy": 700.0,
+        "MaxSatiety": 10.0,
+        "Crit": 1568.0,
+        "CritDef": 0.0,
+        "CritDam": 0.5,
+        "HealCritDam": 1.0,
+        "CommonAtkBase": 53.0,
+        "PhyDefBase": 0.0,
+        "FireDefBase": 0.0,
+        "ThunderDefBase": 0.0,
+        "IceDefBase": 0.0,
+        "SuperpowerDefBase": 0.0,
+        "FinalAbnormalStateResistance": 0.0,
+        "FinalRigidityResistance": 0.0,
+        "ArmorBase": 180.0,
+        "BreakDefBase": 15.0
+      },
+      "Map_chiji_D_team": {
+        "BalancePlayerLevel": 40,
+        "BaseSatiety": 0,
+        "MaxHealth": 1032.0,
+        "MaxEnergy": 700.0,
+        "MaxSatiety": 10.0,
+        "Crit": 1568.0,
+        "CritDef": 0.0,
+        "CritDam": 0.5,
+        "HealCritDam": 1.0,
+        "CommonAtkBase": 53.0,
+        "PhyDefBase": 0.0,
+        "FireDefBase": 0.0,
+        "ThunderDefBase": 0.0,
+        "IceDefBase": 0.0,
+        "SuperpowerDefBase": 0.0,
+        "FinalAbnormalStateResistance": 0.0,
+        "FinalRigidityResistance": 0.0,
+        "ArmorBase": 180.0,
+        "BreakDefBase": 15.0
+      }
+    }
+  }
+]

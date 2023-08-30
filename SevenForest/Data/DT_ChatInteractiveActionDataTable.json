@@ -1,0 +1,180 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ChatInteractiveActionDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ChatInteractiveActionConfig'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "guzhang": {
+        "Name": "鼓掌",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_applause.action_applause",
+          "SubPathString": ""
+        },
+        "MontageId": "guzhang",
+        "IsLock": false
+      },
+      "dazhaohu": {
+        "Name": "打招呼",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_huishou.action_huishou",
+          "SubPathString": ""
+        },
+        "MontageId": "dazhaohu",
+        "IsLock": false
+      },
+      "yaotou": {
+        "Name": "摇头",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_yaotou.action_yaotou",
+          "SubPathString": ""
+        },
+        "MontageId": "yaotou",
+        "IsLock": false
+      },
+      "tanshou": {
+        "Name": "摊手",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_tanshou.action_tanshou",
+          "SubPathString": ""
+        },
+        "MontageId": "tanshou",
+        "IsLock": false
+      },
+      "bixin": {
+        "Name": "比心",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_bixin.action_bixin",
+          "SubPathString": ""
+        },
+        "MontageId": "bixin",
+        "IsLock": false
+      },
+      "daxiao": {
+        "Name": "大笑",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_lol.action_lol",
+          "SubPathString": ""
+        },
+        "MontageId": "daxiao",
+        "IsLock": true
+      },
+      "ku": {
+        "Name": "哭",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_crying.action_crying",
+          "SubPathString": ""
+        },
+        "MontageId": "ku",
+        "IsLock": true
+      },
+      "xiaxue": {
+        "Name": "下雪",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_snow.action_snow",
+          "SubPathString": ""
+        },
+        "MontageId": "xiaxue",
+        "IsLock": true
+      },
+      "xieli": {
+        "Name": "谢礼",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_thank.action_thank",
+          "SubPathString": ""
+        },
+        "MontageId": "xieli",
+        "IsLock": true
+      },
+      "baipose": {
+        "Name": "摆pose",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_pose.action_pose",
+          "SubPathString": ""
+        },
+        "MontageId": "baipose",
+        "IsLock": true
+      },
+      "haixiu": {
+        "Name": "害羞",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_shy.action_shy",
+          "SubPathString": ""
+        },
+        "MontageId": "haixiu",
+        "IsLock": true
+      },
+      "zuoyi": {
+        "Name": "作揖",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_zuoyi.action_zuoyi",
+          "SubPathString": ""
+        },
+        "MontageId": "zuoyi",
+        "IsLock": true
+      },
+      "shenglanyao": {
+        "Name": "伸懒腰",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_stretch.action_stretch",
+          "SubPathString": ""
+        },
+        "MontageId": "shenglanyao",
+        "IsLock": true
+      },
+      "chengsan": {
+        "Name": "撑伞",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_Umbrella.action_Umbrella",
+          "SubPathString": ""
+        },
+        "MontageId": "chengsan",
+        "IsLock": true
+      },
+      "shuijiao": {
+        "Name": "睡觉",
+        "Type": "EHottaInteractiveActionType::SinglePerson",
+        "MustOppositeSex": false,
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/dongzuo/action_sleep.action_sleep",
+          "SubPathString": ""
+        },
+        "MontageId": "shuijiao",
+        "IsLock": true
+      }
+    }
+  }
+]

@@ -1,0 +1,1347 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ChatPhrase",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ChatPhraseData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "IsDefault": false,
+        "PhraseList": [
+          {
+            "PhraseId": "meilier1",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier1"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0001.Play_Vo_Chiji_Npc321_0001",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "meilier2",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier2"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0002.Play_Vo_Chiji_Npc321_0002",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "meilier3",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier3"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0003.Play_Vo_Chiji_Npc321_0003",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "meilier4",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier4"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0004.Play_Vo_Chiji_Npc321_0004",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "meilier5",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier5"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0005.Play_Vo_Chiji_Npc321_0005",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "meilier6",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier6"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0006.Play_Vo_Chiji_Npc321_0006",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "meilier7",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier7"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0007.Play_Vo_Chiji_Npc321_0007",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "meilier8",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier8"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0008.Play_Vo_Chiji_Npc321_0008",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "chiji_meilier9",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier9"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0009.Play_Vo_Chiji_Npc321_0009",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_meilier10",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier10"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0010.Play_Vo_Chiji_Npc321_0010",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_meilier11",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier11"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0011.Play_Vo_Chiji_Npc321_0011",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_meilier12",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier12"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0012.Play_Vo_Chiji_Npc321_0012",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_meilier13",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier13"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0013.Play_Vo_Chiji_Npc321_0013",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_meilier14",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier14"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0014.Play_Vo_Chiji_Npc321_0014",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_meilier15",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_meilier15"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc321/Play_Vo_Chiji_Npc321_0015.Play_Vo_Chiji_Npc321_0015",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          }
+        ]
+      },
+      "2": {
+        "IsDefault": false,
+        "PhraseList": [
+          {
+            "PhraseId": "mia1",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia1"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0001.Play_Vo_Chiji_Pet_Mia_0001",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia2",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia2"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0002.Play_Vo_Chiji_Pet_Mia_0002",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia3",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia3"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0003.Play_Vo_Chiji_Pet_Mia_0003",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia4",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia4"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0004.Play_Vo_Chiji_Pet_Mia_0004",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia5",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia5"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0005.Play_Vo_Chiji_Pet_Mia_0005",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia6",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia6"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0006.Play_Vo_Chiji_Pet_Mia_0006",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia7",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia7"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0007.Play_Vo_Chiji_Pet_Mia_0007",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia8",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia8"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0008.Play_Vo_Chiji_Pet_Mia_0008",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia9",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia9"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Vera/Talk_01/Pet_Mia/Play_Vo_Talk_Pet_Mia_0194.Play_Vo_Talk_Pet_Mia_0194",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": true,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia10",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia10"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Vera/Talk_01/Pet_Mia/Play_Vo_Talk_Pet_Mia_0195.Play_Vo_Talk_Pet_Mia_0195",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": true,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "mia11",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia11"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Vera/Talk_01/Pet_Mia/Play_Vo_Talk_Pet_Mia_0196.Play_Vo_Talk_Pet_Mia_0196",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": true,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "chiji_mia12",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia12"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0009.Play_Vo_Chiji_Pet_Mia_0009",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_mia13",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia13"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0010.Play_Vo_Chiji_Pet_Mia_0010",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_mia14",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia14"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0011.Play_Vo_Chiji_Pet_Mia_0011",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_mia15",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia15"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0012.Play_Vo_Chiji_Pet_Mia_0012",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_mia16",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia16"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0013.Play_Vo_Chiji_Pet_Mia_0013",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_mia17",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia17"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0014.Play_Vo_Chiji_Pet_Mia_0014",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_mia18",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_mia18"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Pet_Mia/Play_Vo_Chiji_Pet_Mia_0015.Play_Vo_Chiji_Pet_Mia_0015",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          }
+        ]
+      },
+      "3": {
+        "IsDefault": false,
+        "PhraseList": [
+          {
+            "PhraseId": "saimier1",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier1"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0001.Play_Vo_Chiji_Npc322_0001",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "saimier2",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier2"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0002.Play_Vo_Chiji_Npc322_0002",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "saimier3",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier3"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0003.Play_Vo_Chiji_Npc322_0003",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "saimier4",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier4"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0004.Play_Vo_Chiji_Npc322_0004",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "saimier5",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier5"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0005.Play_Vo_Chiji_Npc322_0005",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "saimier6",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier6"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0006.Play_Vo_Chiji_Npc322_0006",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "saimier7",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier7"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0007.Play_Vo_Chiji_Npc322_0007",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "saimier8",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier8"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0008.Play_Vo_Chiji_Npc322_0008",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "chiji_saimier9",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier9"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0009.Play_Vo_Chiji_Npc322_0009",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_saimier10",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier10"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0010.Play_Vo_Chiji_Npc322_0010",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_saimier11",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier11"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0011.Play_Vo_Chiji_Npc322_0011",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_saimier12",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier12"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0012.Play_Vo_Chiji_Npc322_0012",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_saimier13",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier13"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0013.Play_Vo_Chiji_Npc322_0013",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_saimier14",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier14"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0014.Play_Vo_Chiji_Npc322_0014",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_saimier15",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_saimier15"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc322/Play_Vo_Chiji_Npc322_0015.Play_Vo_Chiji_Npc322_0015",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          }
+        ]
+      },
+      "4": {
+        "IsDefault": false,
+        "PhraseList": [
+          {
+            "PhraseId": "naimeixisi1",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi1"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0001.Play_Vo_Chiji_Npc010_0001",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "naimeixisi2",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi2"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0002.Play_Vo_Chiji_Npc010_0002",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "naimeixisi3",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi3"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0003.Play_Vo_Chiji_Npc010_0003",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "naimeixisi4",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi4"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0004.Play_Vo_Chiji_Npc010_0004",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "naimeixisi5",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi5"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0005.Play_Vo_Chiji_Npc010_0005",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "naimeixisi6",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi6"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0006.Play_Vo_Chiji_Npc010_0006",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "naimeixisi7",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi7"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0007.Play_Vo_Chiji_Npc010_0007",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "naimeixisi8",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi8"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0008.Play_Vo_Chiji_Npc010_0008",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "chiji_naimeixisi9",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi9"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0009.Play_Vo_Chiji_Npc010_0009",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_naimeixisi10",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi10"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0010.Play_Vo_Chiji_Npc010_0010",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_naimeixisi11",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi11"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0011.Play_Vo_Chiji_Npc010_0011",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_naimeixisi12",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi12"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0012.Play_Vo_Chiji_Npc010_0012",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_naimeixisi13",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi13"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0013.Play_Vo_Chiji_Npc010_0013",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_naimeixisi14",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi14"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0014.Play_Vo_Chiji_Npc010_0014",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_naimeixisi15",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_naimeixisi15"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Npc010/Play_Vo_Chiji_Npc010_0015.Play_Vo_Chiji_Npc010_0015",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          }
+        ]
+      },
+      "5": {
+        "IsDefault": true,
+        "PhraseList": [
+          {
+            "PhraseId": "female1",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female1"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0001_f.Play_Vo_Chiji_Player_0001_f",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "female2",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female2"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0002_f.Play_Vo_Chiji_Player_0002_f",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "female3",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female3"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0003_f.Play_Vo_Chiji_Player_0003_f",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "female4",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female4"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0004_f.Play_Vo_Chiji_Player_0004_f",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "female5",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female5"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0005_f.Play_Vo_Chiji_Player_0005_f",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "female6",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female6"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0006_f.Play_Vo_Chiji_Player_0006_f",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "male7",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female7"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0007_f.Play_Vo_Chiji_Player_0007_f",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "female8",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female8"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0008_f.Play_Vo_Chiji_Player_0008_f",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "chiji_female9",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female9"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0009_f.Play_Vo_Chiji_Player_0009_f",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_female10",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female10"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0010_f.Play_Vo_Chiji_Player_0010_f",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_female11",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female11"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0011_f.Play_Vo_Chiji_Player_0011_f",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_female12",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female12"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0012_f.Play_Vo_Chiji_Player_0012_f",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_female13",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female13"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0013_f.Play_Vo_Chiji_Player_0013_f",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_female14",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female14"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0014_f.Play_Vo_Chiji_Player_0014_f",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_female15",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_female15"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_f/Play_Vo_Chiji_Player_0015_f.Play_Vo_Chiji_Player_0015_f",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          }
+        ]
+      },
+      "6": {
+        "IsDefault": true,
+        "PhraseList": [
+          {
+            "PhraseId": "male1",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male1"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0001_m.Play_Vo_Chiji_Player_0001_m",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "male2",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male2"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0002_m.Play_Vo_Chiji_Player_0002_m",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "male3",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male3"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0003_m.Play_Vo_Chiji_Player_0003_m",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "male4",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male4"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0004_m.Play_Vo_Chiji_Player_0004_m",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "male5",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male5"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0005_m.Play_Vo_Chiji_Player_0005_m",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "male6",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male6"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0006_m.Play_Vo_Chiji_Player_0006_m",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "male7",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male7"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0007_m.Play_Vo_Chiji_Player_0007_m",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "male8",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male8"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0008_m.Play_Vo_Chiji_Player_0008_m",
+              "SubPathString": ""
+            },
+            "IsView": true,
+            "IsLock": false,
+            "IsBattlefield": false
+          },
+          {
+            "PhraseId": "chiji_male9",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male9"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0009_m.Play_Vo_Chiji_Player_0009_m",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_male10",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male10"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0010_m.Play_Vo_Chiji_Player_0010_m",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_male11",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male11"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0011_m.Play_Vo_Chiji_Player_0011_m",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "male12",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male12"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0012_m.Play_Vo_Chiji_Player_0012_m",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_male13",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male13"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0013_m.Play_Vo_Chiji_Player_0013_m",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_male14",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male14"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0014_m.Play_Vo_Chiji_Player_0014_m",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          },
+          {
+            "PhraseId": "chiji_male15",
+            "ViewPhrase": {
+              "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+              "Key": "ChatPhrase_male15"
+            },
+            "DubbingSound": {
+              "AssetPathName": "/Game/WwiseAudio/Events/Vo_Chiji/QuickTalk/Player_m/Play_Vo_Chiji_Player_0015_m.Play_Vo_Chiji_Player_0015_m",
+              "SubPathString": ""
+            },
+            "IsView": false,
+            "IsLock": false,
+            "IsBattlefield": true
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Emoji",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ChatEmojiData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/1.1",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "2": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/2.2",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "3": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/3.3",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "4": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/4.4",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "5": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/5.5",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "6": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/6.6",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "7": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/7.7",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "8": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/8.8",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "9": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/9.9",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "10": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/10.10",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "11": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/11.11",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "12": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/12.12",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "13": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/13.13",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "14": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/14.14",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "15": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/15.15",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "16": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/16.16",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "17": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/17.17",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "18": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/18.18",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "19": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/19.19",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "20": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/20.20",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "21": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/21.21",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "22": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/22.22",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "23": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/23.23",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "24": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/24.24",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "25": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/25.25",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "26": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/26.26",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "27": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/27.27",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "28": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/28.28",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "29": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/29.29",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "30": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/30.30",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "31": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/31.31",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "32": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/32.32",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "33": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/33.33",
+          "SubPathString": ""
+        },
+        "IsLock": false
+      },
+      "34": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/34.34",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "35": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/35.35",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "36": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/37.37",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "37": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/38.38",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "38": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/39.39",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "39": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/40.40",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "40": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/41.41",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "41": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/42.42",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "42": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/43.43",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "43": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/44.44",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "44": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/45.45",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      },
+      "45": {
+        "EmojiTexture": {
+          "AssetPathName": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/46.46",
+          "SubPathString": ""
+        },
+        "IsLock": true
+      }
+    }
+  }
+]

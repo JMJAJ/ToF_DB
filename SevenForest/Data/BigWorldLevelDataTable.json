@@ -1,0 +1,738 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "BigWorldLevelDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'BigWorldLevelCfg'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "BigWorldLevel": 10,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_1"
+          }
+        ],
+        "SpecificBigWorldDescArray": [],
+        "AwardsInfoArray": [],
+        "RecommendZL": 0,
+        "LowZL": 0,
+        "BackBigWorldLevel": -1,
+        "ConsumeItemID": "None",
+        "ConsumeItemCount": 0
+      },
+      "2": {
+        "BigWorldLevel": 15,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_9"
+          }
+        ],
+        "SpecificBigWorldDescArray": [],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "weapon_exp_sr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "bag_elemine_p1_all",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 1000,
+        "LowZL": 500,
+        "BackBigWorldLevel": 10,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 50
+      },
+      "3": {
+        "BigWorldLevel": 20,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_2"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff1"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "choose_weapon_sr_init",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "weapon_exp_sr",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "bag_elemine_p1_all",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 1800,
+        "LowZL": 900,
+        "BackBigWorldLevel": 15,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 100
+      },
+      "4": {
+        "BigWorldLevel": 25,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_10"
+          }
+        ],
+        "SpecificBigWorldDescArray": [],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "choose_adaptive_matrix_sr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "matrix_exp_ssr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 3000,
+        "LowZL": 1500,
+        "BackBigWorldLevel": 20,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 150
+      },
+      "5": {
+        "BigWorldLevel": 30,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_3"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff11"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "Item_Gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "choose_breakthrough_cd1",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "choose_breakthrough_ab1",
+            "Amount": 10,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 5000,
+        "LowZL": 2500,
+        "BackBigWorldLevel": 25,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "6": {
+        "BigWorldLevel": 35,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_4"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_5"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff2"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "StrengthenStone_02",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "StrengthenStone_01",
+            "Amount": 10,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_Gold",
+            "Amount": 20000,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 8000,
+        "LowZL": 4000,
+        "BackBigWorldLevel": 30,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "7": {
+        "BigWorldLevel": 40,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_6"
+          }
+        ],
+        "SpecificBigWorldDescArray": [],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "choose_adaptive_matrix_sr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "matrix_exp_ssr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 12000,
+        "LowZL": 6000,
+        "BackBigWorldLevel": 35,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "8": {
+        "BigWorldLevel": 45,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_7"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_8"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff3"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_Gold",
+            "Amount": 20000,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 16000,
+        "LowZL": 8000,
+        "BackBigWorldLevel": 40,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "9": {
+        "BigWorldLevel": 50,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_12"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_11"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff12"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "choose_adaptive_matrix_ssr_init",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "gift_frag_sr",
+            "Amount": 10,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 22000,
+        "LowZL": 11000,
+        "BackBigWorldLevel": 45,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "10": {
+        "BigWorldLevel": 55,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_None"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff4"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "StrengthenStone_02",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "StrengthenStone_01",
+            "Amount": 10,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 28000,
+        "LowZL": 14000,
+        "BackBigWorldLevel": 50,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "11": {
+        "BigWorldLevel": 60,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_13"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff5"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff13"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "Item_Gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "weapon_exp_ssr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 36000,
+        "LowZL": 18000,
+        "BackBigWorldLevel": 55,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "12": {
+        "BigWorldLevel": 65,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_None"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff6"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "choose_breakthrough_cd1",
+            "Amount": 10,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "choose_breakthrough_ab1",
+            "Amount": 20,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "bag_elemine_p1_all",
+            "Amount": 30,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 43000,
+        "LowZL": 21500,
+        "BackBigWorldLevel": 60,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "13": {
+        "BigWorldLevel": 70,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_14"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff7"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff14"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "matrix_exp_ssr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 51000,
+        "LowZL": 25500,
+        "BackBigWorldLevel": 65,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "14": {
+        "BigWorldLevel": 75,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_15"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff15"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "gift_frag_ssr",
+            "Amount": 20,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_Gold",
+            "Amount": 30000,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 58000,
+        "LowZL": 29000,
+        "BackBigWorldLevel": 70,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "15": {
+        "BigWorldLevel": 80,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_16"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff8"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff16"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "Item_Gem_004",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "weapon_exp_ssr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 66000,
+        "LowZL": 33000,
+        "BackBigWorldLevel": 75,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "16": {
+        "BigWorldLevel": 85,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_None"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff9"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff17"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "StrengthenStone_02",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "StrengthenStone_01",
+            "Amount": 20,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 72000,
+        "LowZL": 36000,
+        "BackBigWorldLevel": 80,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "17": {
+        "BigWorldLevel": 90,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_None"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff10"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff18"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "item_ticket_02",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "matrix_exp_ssr",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 79000,
+        "LowZL": 39500,
+        "BackBigWorldLevel": 85,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 200
+      },
+      "18": {
+        "BigWorldLevel": 95,
+        "BigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_17"
+          },
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_18"
+          }
+        ],
+        "SpecificBigWorldDescArray": [
+          {
+            "TableId": "/Game/Resources/Text/UI.UI",
+            "Key": "BigWorldLevel_buff19"
+          }
+        ],
+        "AwardsInfoArray": [
+          {
+            "ItemID": "Item_equiptupo_C1",
+            "Amount": 10,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_equiptupo_coin",
+            "Amount": 25,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_EquipAttrSelect",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "RecommendZL": 85000,
+        "LowZL": 42500,
+        "BackBigWorldLevel": 90,
+        "ConsumeItemID": "Item_FakeDiamond",
+        "ConsumeItemCount": 300
+      }
+    }
+  }
+]

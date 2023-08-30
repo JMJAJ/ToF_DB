@@ -1,0 +1,103 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ChatGreeting",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ChatGreetingData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "dazhaohu": {
+        "PlayerGreeting": "dazhaohu1",
+        "OtherGreeting": "dazhaohu2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_dazhaohu"
+        }
+      },
+      "chengzan": {
+        "PlayerGreeting": "chengzan1",
+        "OtherGreeting": "chengzan2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_chengzan"
+        }
+      },
+      "gaobie": {
+        "PlayerGreeting": "gaobie1",
+        "OtherGreeting": "gaobie2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_gaobie"
+        }
+      },
+      "nanguo": {
+        "PlayerGreeting": "nanguo1",
+        "OtherGreeting": "nanguo2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_nanguo"
+        }
+      },
+      "daoxie": {
+        "PlayerGreeting": "daoxie1",
+        "OtherGreeting": "daoxie2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_daoxie"
+        }
+      },
+      "daoqian": {
+        "PlayerGreeting": "daoqian1",
+        "OtherGreeting": "daoqian2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_daoqian"
+        }
+      },
+      "zuduiyaoqing": {
+        "PlayerGreeting": "zuduiyaoqing1",
+        "OtherGreeting": "zuduiyaoqing2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_zuduiyaoqing"
+        }
+      },
+      "tongyi": {
+        "PlayerGreeting": "tongyi1",
+        "OtherGreeting": "tongyi2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_tongyi"
+        }
+      },
+      "fandui": {
+        "PlayerGreeting": "fandui1",
+        "OtherGreeting": "fandui2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_fandui"
+        }
+      },
+      "daren": {
+        "PlayerGreeting": "daren1",
+        "OtherGreeting": "daren2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_daren"
+        }
+      },
+      "yixiao": {
+        "PlayerGreeting": "yixiao1",
+        "OtherGreeting": "yixiao2",
+        "ViewGreeting": {
+          "TableId": "/Game/Resources/Text/ST_Chat.ST_Chat",
+          "Key": "chatgreeting_yixiao"
+        }
+      }
+    }
+  }
+]

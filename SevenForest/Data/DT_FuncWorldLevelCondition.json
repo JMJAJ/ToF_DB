@@ -1,0 +1,263 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_FuncWorldLevelCondition",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'FuncWorldLevelCondition'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Treasurebox": {
+        "AreaWorldLevel": [
+          {
+            "ETowerType::Tower23": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 95,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower2": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 20,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower3": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 30,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower4": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 35,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower5": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 40,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower6": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower7": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 45,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower8": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 45,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower9": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 15,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                },
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Normal"
+                },
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Hard"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower10": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 25,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                },
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Normal"
+                },
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Hard"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower11": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                },
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Normal"
+                },
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Hard"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower12": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower14": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower15": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower13": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 50,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower17": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 60,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower18": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 70,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower19": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower20": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 75,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower21": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower22": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 80,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          },
+          {
+            "ETowerType::Tower1": {
+              "AreaDifInfos": [
+                {
+                  "BigWorldLevel": 10,
+                  "DifType": "ETowerExploreType::ETE_Type_Easy"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+]

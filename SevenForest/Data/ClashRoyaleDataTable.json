@@ -1,0 +1,1206 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ClashRoyaleDataTable",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ClashRoyaleCfg'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Boss_hum_007_jdwc": {
+        "MonsterName": "鬣狗帮机甲",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/Boss_hum_007_jdwc.Boss_hum_007_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss003.jingdwc_kapai_boss003",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_ren.jingdwc_zhongzu_ren",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_powers.element_powers",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_cheng.jingdwc_kapaidi_cheng",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Human",
+          "jdwc_Phy",
+          "jdwc_Boss"
+        ],
+        "HolyWaterConsume": 15,
+        "RubbishCardHolyWaterConsume": 4,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Boss_hum_007_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "Boss_hum_007"
+        }
+      },
+      "Boss_hum_020_jdwc": {
+        "MonsterName": "露琪亚",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/Boss_hum_020_jdwc.Boss_hum_020_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss005.jingdwc_kapai_boss005",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_ren.jingdwc_zhongzu_ren",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_powers.element_powers",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_cheng.jingdwc_kapaidi_cheng",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Human",
+          "jdwc_Phy",
+          "jdwc_Boss"
+        ],
+        "HolyWaterConsume": 13,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Boss_hum_020_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "Boss_hum_020"
+        }
+      },
+      "mon_hum_012_Chief_jdwc": {
+        "MonsterName": "肉搏电流机甲",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_012_Chief_jdwc.mon_hum_012_Chief_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss001.jingdwc_kapai_boss001",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_ren.jingdwc_zhongzu_ren",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_powers.element_powers",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Human",
+          "jdwc_Thunder",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 10,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_012_Chief_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_012"
+        }
+      },
+      "mon_hum_045b_Captain_jdwc": {
+        "MonsterName": "小丑女-黄蛛",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_045b_Captain_jdwc.mon_hum_045b_Captain_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss009.jingdwc_kapai_boss009",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_ren.jingdwc_zhongzu_ren",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Human",
+          "jdwc_Ice",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 9,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_045b_Captain_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_045b"
+        }
+      },
+      "mon_hum_097_Captain_jdwc": {
+        "MonsterName": "铁钩",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_097_Captain_jdwc.mon_hum_097_Captain_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss018.jingdwc_kapai_boss018",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_ren.jingdwc_zhongzu_ren",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Human",
+          "jdwc_Fire",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 9,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_097_Captain_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_097_Captain"
+        }
+      },
+      "mon_hum_018_jdwc": {
+        "MonsterName": "艾达狙击手",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_018_jdwc.mon_hum_018_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss004.jingdwc_kapai_boss004",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_ren.jingdwc_zhongzu_ren",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Human",
+          "jdwc_Phy"
+        ],
+        "HolyWaterConsume": 2,
+        "RubbishCardHolyWaterConsume": 1,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_018_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_018"
+        }
+      },
+      "mon_hum_096_jdwc": {
+        "MonsterName": "乱命匪徒",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_096_jdwc.mon_hum_096_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss017.jingdwc_kapai_boss017",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_ren.jingdwc_zhongzu_ren",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Human",
+          "jdwc_Ice"
+        ],
+        "HolyWaterConsume": 4,
+        "RubbishCardHolyWaterConsume": 2,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_096_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_096"
+        }
+      },
+      "mon_hum_008_spear_jdwc": {
+        "MonsterName": "背甲掠夺者",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_008_spear_jdwc.mon_hum_008_spear_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss000.jingdwc_kapai_boss000",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_ren.jingdwc_zhongzu_ren",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Human",
+          "jdwc_Phy"
+        ],
+        "HolyWaterConsume": 3,
+        "RubbishCardHolyWaterConsume": 1,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_008_spear_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_008_spear"
+        }
+      },
+      "Boss_hum_002_jdwc": {
+        "MonsterName": "米诺陶",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/Boss_hum_002_jdwc.Boss_hum_002_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss002.jingdwc_kapai_boss002",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_shou.jingdwc_zhongzu_shou",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_cheng.jingdwc_kapaidi_cheng",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Beast",
+          "jdwc_Phy",
+          "jdwc_Boss"
+        ],
+        "HolyWaterConsume": 13,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Boss_hum_002_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "Boss_hum_002"
+        }
+      },
+      "Boss_hum_025_jdwc": {
+        "MonsterName": "巴巴罗萨",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/Boss_hum_025_jdwc.Boss_hum_025_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss006.jingdwc_kapai_boss006",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_shou.jingdwc_zhongzu_shou",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_cheng.jingdwc_kapaidi_cheng",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Beast",
+          "jdwc_Phy",
+          "jdwc_Boss"
+        ],
+        "HolyWaterConsume": 17,
+        "RubbishCardHolyWaterConsume": 4,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Boss_hum_025_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "Boss_hum_025"
+        }
+      },
+      "mon_hum_066_Captain_world_jdwc": {
+        "MonsterName": "星角羚",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_066_Captain_world_jdwc.mon_hum_066_Captain_world_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss025.jingdwc_kapai_boss025",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_shou.jingdwc_zhongzu_shou",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_powers.element_powers",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Beast",
+          "jdwc_SuperPower",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 11,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_064_Big_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_066_captain"
+        }
+      },
+      "mon_hum_065_chief_jdwc": {
+        "MonsterName": "大型巨角犀",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_065_chief_jdwc.mon_hum_065_chief_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss011.jingdwc_kapai_boss011",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_shou.jingdwc_zhongzu_shou",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Beast",
+          "jdwc_Phy",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 12,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_065_chief_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_065"
+        }
+      },
+      "mon_hum_087_chief_Big_jdwc": {
+        "MonsterName": "赤火蜥首领",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_087_chief_Big_jdwc.mon_hum_087_chief_Big_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss016.jingdwc_kapai_boss016",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_shou.jingdwc_zhongzu_shou",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Beast",
+          "jdwc_Fire",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 9,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_087_chief_Big_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_087"
+        }
+      },
+      "mon_hum_086_small_jdwc": {
+        "MonsterName": "沙漠掠食者",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_086_small_jdwc.mon_hum_086_small_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss015.jingdwc_kapai_boss015",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_shou.jingdwc_zhongzu_shou",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Beast",
+          "jdwc_Phy"
+        ],
+        "HolyWaterConsume": 2,
+        "RubbishCardHolyWaterConsume": 1,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_086_small_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_086"
+        }
+      },
+      "mon_hum_067_jdwc": {
+        "MonsterName": "鹅颈兽",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_067_jdwc.mon_hum_067_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss012.jingdwc_kapai_boss012",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_shou.jingdwc_zhongzu_shou",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Beast",
+          "jdwc_Phy"
+        ],
+        "HolyWaterConsume": 2,
+        "RubbishCardHolyWaterConsume": 1,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_067_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_067"
+        }
+      },
+      "mon_hum_152_Elite_world_jdwc": {
+        "MonsterName": "讙",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_152_Elite_world_jdwc.mon_hum_152_Elite_world_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss024.jingdwc_kapai_boss024",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_shou.jingdwc_zhongzu_shou",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_Beast",
+          "jdwc_Thunder"
+        ],
+        "HolyWaterConsume": 3,
+        "RubbishCardHolyWaterConsume": 2,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_077_elite_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_152"
+        }
+      },
+      "Boss_hum_042_jdwc": {
+        "MonsterName": "阿比斯-盖亚",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/Boss_hum_042_jdwc.Boss_hum_042_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss007.jingdwc_kapai_boss007",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_huiyuti.jingdwc_zhongzu_huiyuti",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_cheng.jingdwc_kapaidi_cheng",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_Phy",
+          "jdwc_Boss"
+        ],
+        "HolyWaterConsume": 19,
+        "RubbishCardHolyWaterConsume": 4,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Boss_hum_042_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_042"
+        }
+      },
+      "Boss_hum_057_quest_jdwc": {
+        "MonsterName": "暝伥·朱厌",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/Boss_hum_057_quest_jdwc.Boss_hum_057_quest_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss008.jingdwc_kapai_boss008",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_huiyuti.jingdwc_zhongzu_huiyuti",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_cheng.jingdwc_kapaidi_cheng",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_Phy",
+          "jdwc_Boss"
+        ],
+        "HolyWaterConsume": 22,
+        "RubbishCardHolyWaterConsume": 5,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Boss_hum_057_quest_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "boss_hum_057_quest"
+        }
+      },
+      "mon_hum_174_jdwc": {
+        "MonsterName": "晦暝·吏目",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_174_jdwc.mon_hum_174_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss023.jingdwc_kapai_boss023",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_huiyuti.jingdwc_zhongzu_huiyuti",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_Ice",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 12,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_174_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_174"
+        }
+      },
+      "mon_hum_173_jdwc": {
+        "MonsterName": "晦暝·胥役",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_173_jdwc.mon_hum_173_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss022.jingdwc_kapai_boss022",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_huiyuti.jingdwc_zhongzu_huiyuti",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_powers.element_powers",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_SuperPower",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 13,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_173_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_173"
+        }
+      },
+      "mon_hum_103_jdwc": {
+        "MonsterName": "G-超数",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_103_jdwc.mon_hum_103_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss019.jingdwc_kapai_boss019",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_huiyuti.jingdwc_zhongzu_huiyuti",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_powers.element_powers",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_zi.jingdwc_kapaidi_zi",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_SuperPower",
+          "jdwc_Elite"
+        ],
+        "HolyWaterConsume": 11,
+        "RubbishCardHolyWaterConsume": 3,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_103_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_103"
+        }
+      },
+      "mon_hum_164_Elite_world_jdwc": {
+        "MonsterName": "暝伥·离州域卫",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_164_Elite_world_jdwc.mon_hum_164_Elite_world_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss020.jingdwc_kapai_boss020",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_huiyuti.jingdwc_zhongzu_huiyuti",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_Fire"
+        ],
+        "HolyWaterConsume": 2,
+        "RubbishCardHolyWaterConsume": 1,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_164_Elite_world_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_164"
+        }
+      },
+      "mon_hum_165_Elite_world_jdwc": {
+        "MonsterName": "暝伥·震州域卫",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_165_Elite_world_jdwc.mon_hum_165_Elite_world_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss021.jingdwc_kapai_boss021",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_huiyuti.jingdwc_zhongzu_huiyuti",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_Thunder"
+        ],
+        "HolyWaterConsume": 3,
+        "RubbishCardHolyWaterConsume": 2,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_165_Elite_world_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_165"
+        }
+      },
+      "mon_hum_074_Captain_jdwc": {
+        "MonsterName": "教化者",
+        "MonsterNPCTemplate": {
+          "AssetPathName": "/Game/Resources/FB/JDWC/Monster/mon_hum_074_Captain_jdwc.mon_hum_074_Captain_jdwc_C",
+          "SubPathString": ""
+        },
+        "MonsterNPCIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/Mons/jingdwc_kapai_boss013.jingdwc_kapai_boss013",
+          "SubPathString": ""
+        },
+        "MonsterNPCGrayIcon": {
+          "AssetPathName": "/Game/Resources/UI/jinianyingzhang/lihui/imitation_17_hui.imitation_17_hui",
+          "SubPathString": ""
+        },
+        "MonsterNPCRaceIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_zhongzu_huiyuti.jingdwc_zhongzu_huiyuti",
+          "SubPathString": ""
+        },
+        "MonsterNPCAttackIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+          "SubPathString": ""
+        },
+        "MonsterNPCWeaknessIcon": {
+          "AssetPathName": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+          "SubPathString": ""
+        },
+        "CardBgIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/MainForm/jingdwc_kapaidi_hei.jingdwc_kapaidi_hei",
+          "SubPathString": ""
+        },
+        "AddDamgeBuff": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/JDWC_Buff/AtkUp/Buff_JDWC_CommonAtkUp.Buff_JDWC_CommonAtkUp_C",
+          "SubPathString": ""
+        },
+        "MonsterTags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_Ice"
+        ],
+        "HolyWaterConsume": 4,
+        "RubbishCardHolyWaterConsume": 2,
+        "RaceDes": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "mon_hum_074_Captain_jdwc"
+        },
+        "MonsterNameOverseas": {
+          "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+          "Key": "mon_hum_074_Captain"
+        }
+      }
+    }
+  }
+]

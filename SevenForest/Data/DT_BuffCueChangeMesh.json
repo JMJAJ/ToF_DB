@@ -1,0 +1,939 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_BuffCueChangeMesh",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'PlayerBuffChangedMeshData'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "2": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "3": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "4": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "5": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "6": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "7": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "8": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "9": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "10": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "11": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "12": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "13": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "14": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "15": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "16": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "17": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "18": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "19": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "20": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "21": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "22": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "23": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "24": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "25": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "26": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "27": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "28": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "29": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "30": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "31": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "32": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "33": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "34": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "35": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "36": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "37": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "38": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "39": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "40": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "41": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "42": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "43": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "44": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "45": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "46": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "47": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "48": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "49": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "50": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "51": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "52": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "53": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "54": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "55": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "56": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "57": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "58": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "59": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "60": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "61": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "62": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "63": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "64": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "65": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "66": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "67": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/male_01/m_player_skeleton_common/m_player_skeleton_common_skin.m_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "68": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "69": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "70": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "71": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "91": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "92": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "93": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "94": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "72": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      "73": {
+        "ReplaceSkeletalMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_player_skeleton_common/f_player_skeleton_common_skin.f_player_skeleton_common_skin",
+          "SubPathString": ""
+        },
+        "ReplaceSkeletalMeshHeadUpHeightOffset": 50.0,
+        "ReplaceSkeletalMeshScale": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    }
+  }
+]

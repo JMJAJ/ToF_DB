@@ -1,0 +1,271 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ClashRoyaleMonsterBufferTip",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'ClashRoyaleMonsterTipsCfg'",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "晶极谐振": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_jjxz.buff_JDWC_jjxz",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_HuiYuiTi",
+          "jdwc_Boss"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "F63D342E493FF1CAAE9FE3997E0A7A75",
+          "SourceString": "晶极谐振",
+          "LocalizedString": "Crystamax Resonance"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "F02F1B7F4D06F426A59360940600DB20",
+          "SourceString": "我方灰域体单位攻击力提升15%",
+          "LocalizedString": "Increase ATK of friendly Grayspace Entities by 15%."
+        },
+        "ElementType": -1,
+        "CurCount": 0
+      },
+      "生态调和": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_stth.buff_JDWC_stth",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_Beast",
+          "jdwc_Boss"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "4434CC63403A2F37031D51AB4638422C",
+          "SourceString": "生态调和",
+          "LocalizedString": "Ecological Alleviation"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "769F6EBC4C19C7F39DDC15866D23D02F",
+          "SourceString": "我方兽类单位每秒回复1%生命",
+          "LocalizedString": "Friendly beasts recover 1% of HP per second."
+        },
+        "ElementType": -1,
+        "CurCount": 0
+      },
+      "众志成城": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_zzcc.buff_JDWC_zzcc",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_Human",
+          "jdwc_Boss"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "848D9161419934A5626D3A8FBA903669",
+          "SourceString": "众志成城",
+          "LocalizedString": "Unwavering Determination"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "DF88D14E4D5C304123C4C4A64C41F39B",
+          "SourceString": "我方人类单位获得15%减伤",
+          "LocalizedString": "Grant friendly humans 15% damage reduction."
+        },
+        "ElementType": -1,
+        "CurCount": 0
+      },
+      "元素共鸣(物理)": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_ysgm_wuli.buff_JDWC_ysgm_wuli",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_Phy"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "5E9CB9FF40FF623D91530DBBEBAF1234",
+          "SourceString": "元素共鸣(物理)",
+          "LocalizedString": "Elemental Resonance (Physical)"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "DC3F60454732222B0FEF7CB27E067021",
+          "SourceString": "提升物理元素单位10%元素伤害",
+          "LocalizedString": "Increase elemental damage of physical units by 10%."
+        },
+        "ElementType": 1,
+        "CurCount": 0
+      },
+      "元素共鸣(火)": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_ysgm_huo.buff_JDWC_ysgm_huo",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_Fire"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "1F7E1BD648ED1B8E4169EC810D7EB08E",
+          "SourceString": "元素共鸣(火)",
+          "LocalizedString": "Elemental Resonance (Flame)"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "B205347C4A642D7F6E56A49436632911",
+          "SourceString": "提升火元素单位10%元素伤害",
+          "LocalizedString": "Increase elemental damage of flame units by 10%."
+        },
+        "ElementType": 2,
+        "CurCount": 0
+      },
+      "元素共鸣(冰)": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_ysgm_bing.buff_JDWC_ysgm_bing",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_Ice"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "26E29BFA4A1EFF6E66C017881F420A21",
+          "SourceString": "元素共鸣(冰)",
+          "LocalizedString": "Elemental Resonance (Frost)"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "C90BC17B42A905A9C9898BB0BCC39372",
+          "SourceString": "提升冰元素单位10%元素伤害",
+          "LocalizedString": "Increase elemental damage of frost units by 10%."
+        },
+        "ElementType": 3,
+        "CurCount": 0
+      },
+      "元素共鸣(雷)": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_ysgm_lei.buff_JDWC_ysgm_lei",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_Thunder"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "53ED994941FF2278E4FB03AC52E538FE",
+          "SourceString": "元素共鸣(雷)",
+          "LocalizedString": "Elemental Resonance (Volt)"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "52626D484ACC29C1CA593B9730ADF9D6",
+          "SourceString": "提升雷元素单位10%元素伤害",
+          "LocalizedString": "Increase elemental damage of volt units by 10%."
+        },
+        "ElementType": 4,
+        "CurCount": 0
+      },
+      "元素共鸣(异能)": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_ysgm_yineng.buff_JDWC_ysgm_yineng",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_SuperPower"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "07D2E2D64FEAD1CF0AA600866723B59A",
+          "SourceString": "元素共鸣(异能)",
+          "LocalizedString": "Elemental Resonance (Altered)"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "A024775F41F3240A1601289BAACCA80E",
+          "SourceString": "提升异能元素单位10%元素伤害",
+          "LocalizedString": "Increase elemental damage of altered units by 10%."
+        },
+        "ElementType": 5,
+        "CurCount": 0
+      },
+      "围剿战略": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_wjzl.buff_JDWC_wjzl",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_Human"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "9C91781A4FF7B767CD2BF6B6A14CFF93",
+          "SourceString": "围剿战略",
+          "LocalizedString": "Siege Strategy"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "C0A725B849238F70CCD64799A9AB69EC",
+          "SourceString": "我方人类单位对兽类单位造成的伤害提高10%",
+          "LocalizedString": "Increase damage dealt by friendly humans to beasts by 10%."
+        },
+        "ElementType": -1,
+        "CurCount": 0
+      },
+      "野性解放": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_yxjf.buff_JDWC_yxjf",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_Beast"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "D2CC36EF42056372CDD61C90F5C36C4C",
+          "SourceString": "野性解放",
+          "LocalizedString": "Release the Beasts"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "3FE86FE64F2DBFD7ED5BF5B8AAB9F3F7",
+          "SourceString": "我方兽类单位对灰域体单位造成的伤害提高10%",
+          "LocalizedString": "Increase damage dealt by friendly beasts to Grayspace Entities by 10%."
+        },
+        "ElementType": -1,
+        "CurCount": 0
+      },
+      "骇惧侵蚀": {
+        "BufferIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/JDWC/buff_JDWC_hjqs.buff_JDWC_hjqs",
+          "SubPathString": ""
+        },
+        "Tags": [
+          "jdwc_HuiYuiTi"
+        ],
+        "TipsTitle": {
+          "Namespace": "",
+          "Key": "77B631624E9434703D4AC2AA51CCF7CA",
+          "SourceString": "骇惧侵蚀",
+          "LocalizedString": "Erosion Terror"
+        },
+        "TipsDes": {
+          "Namespace": "",
+          "Key": "4243215247CA8ECB71A4B0B30D0264FD",
+          "SourceString": "我方灰域体单位对人类单位造成的伤害提高10%",
+          "LocalizedString": "Increase damage dealt by friendly Grayspace Entities to humans by 10%."
+        },
+        "ElementType": -1,
+        "CurCount": 0
+      }
+    }
+  }
+]
